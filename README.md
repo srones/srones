@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @srones
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on an exciting startup
+- 📫 How to reach me: stav.rones@gmail.com
