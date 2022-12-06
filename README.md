@@ -1,1 +1,3 @@
-I recently completed my M.S. and am searching for a full time Software Engineering role focused on full stack system implementation and optimization. My passions are to collaborate with driven and skilled professionals on cutting edge technology.
+Cloud SRE at UKG focused on GCP tooling development.
+
+M.S. in Computer Engineering from Northeastern University.
